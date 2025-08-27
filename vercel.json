@@ -1,0 +1,7 @@
+{
+  "buildCommand": "pnpm install && pnpm turbo build --filter=docs",
+  "outputDirectory": "apps/docs/.next",
+  "installCommand": "pnpm install --frozen-lockfile",
+  "framework": "nextjs",
+  "rootDirectory": "apps/docs"
+}
