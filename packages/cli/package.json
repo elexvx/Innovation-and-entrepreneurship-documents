@@ -45,7 +45,8 @@
     "@types/node": "24.3.0",
     "eslint-config-custom": "workspace:*",
     "shadcn": "2.10.0",
-    "tsconfig": "workspace:*"
+  "tsconfig": "workspace:*",
+  "tsup": "workspace:*"
   },
   "publishConfig": {
     "access": "public"
